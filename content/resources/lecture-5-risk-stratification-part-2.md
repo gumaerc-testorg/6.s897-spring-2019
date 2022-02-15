@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Risk Stratification, Part 2'
 uid: b923017e-9d47-56e7-bd74-deb4ab63c6fa
 video_files:
   archive_url: https://archive.org/download/MIT6.S897S19/MIT6_S897S19_lec05_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-s897-machine-learning-for-healthcare-spring-2019/b6fc7f50d60d56e5a24b165ead556574_wqI_z1yumzY.vtt
+  video_captions_file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/b6fc7f50d60d56e5a24b165ead556574_wqI_z1yumzY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/wqI_z1yumzY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-s897-machine-learning-for-healthcare-spring-2019/30da27b0e0ec8388dc8d715904e43d85_wqI_z1yumzY.pdf
+  video_transcript_file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/30da27b0e0ec8388dc8d715904e43d85_wqI_z1yumzY.pdf
 video_metadata:
   youtube_id: wqI_z1yumzY
 ---

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Causal Inference, Part 2'
 uid: cd350e97-e661-90fb-b497-82f06fcb0141
 video_files:
   archive_url: https://archive.org/download/MIT6.S897S19/MIT6_S897S19_lec15_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-s897-machine-learning-for-healthcare-spring-2019/240199e048555fb1be9272059657f8d1_g5v-NvNoJQQ.vtt
+  video_captions_file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/240199e048555fb1be9272059657f8d1_g5v-NvNoJQQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/g5v-NvNoJQQ/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-s897-machine-learning-for-healthcare-spring-2019/e86f7ed8202c74379f73a864f6163d06_g5v-NvNoJQQ.pdf
+  video_transcript_file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/e86f7ed8202c74379f73a864f6163d06_g5v-NvNoJQQ.pdf
 video_metadata:
   youtube_id: g5v-NvNoJQQ
 ---

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Automating Clinical Work Flows'
 uid: 10f7c2a7-4845-2af3-cb8b-8e72a52b0f80
 video_files:
   archive_url: https://archive.org/download/MIT6.S897S19/MIT6_S897S19_lec21_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-s897-machine-learning-for-healthcare-spring-2019/006f542d85fb52d497f5f9cad09992c9_Td01vFP3uJo.vtt
+  video_captions_file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/006f542d85fb52d497f5f9cad09992c9_Td01vFP3uJo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Td01vFP3uJo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-s897-machine-learning-for-healthcare-spring-2019/52ee464e68803cac74158bd1e3d24f28_Td01vFP3uJo.pdf
+  video_transcript_file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/52ee464e68803cac74158bd1e3d24f28_Td01vFP3uJo.pdf
 video_metadata:
   youtube_id: Td01vFP3uJo
 ---

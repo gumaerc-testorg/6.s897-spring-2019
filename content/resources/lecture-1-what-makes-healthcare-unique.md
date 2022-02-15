@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: What Makes Healthcare Unique?'
 uid: 42348294-e971-8e9b-b3c6-1a528d79d5d0
 video_files:
   archive_url: https://archive.org/download/MIT6.S897S19/MIT6_S897S19_lec01_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-s897-machine-learning-for-healthcare-spring-2019/1dfcc6bfb8765f37a266cea0568026c5_vof7x8r_ZUA.vtt
+  video_captions_file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/1dfcc6bfb8765f37a266cea0568026c5_vof7x8r_ZUA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/vof7x8r_ZUA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-s897-machine-learning-for-healthcare-spring-2019/049a13de80bfc79f647f2e42e6636e60_vof7x8r_ZUA.pdf
+  video_transcript_file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/049a13de80bfc79f647f2e42e6636e60_vof7x8r_ZUA.pdf
 video_metadata:
   youtube_id: vof7x8r_ZUA
 ---

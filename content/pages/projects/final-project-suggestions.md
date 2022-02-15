@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8f308296-4b99-c74b-3eca-95954f1f7ea2
 title: Final Project Suggestions
 uid: fd4248e5-f68f-2233-10cd-dc3d049961b4

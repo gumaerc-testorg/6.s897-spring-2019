@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9: Translating Technology Into the Clinic'
 uid: c7e69efe-41ba-3672-7ed9-8bbda5098837
 video_files:
   archive_url: https://archive.org/download/MIT6.S897S19/MIT6_S897S19_lec09_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-s897-machine-learning-for-healthcare-spring-2019/3d9d243fd9c95a43966e249d86055c8f_ZQu2B3GyI_k.vtt
+  video_captions_file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/3d9d243fd9c95a43966e249d86055c8f_ZQu2B3GyI_k.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ZQu2B3GyI_k/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-s897-machine-learning-for-healthcare-spring-2019/f1e3b1687158ae363ba8293b5fe97483_ZQu2B3GyI_k.pdf
+  video_transcript_file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/f1e3b1687158ae363ba8293b5fe97483_ZQu2B3GyI_k.pdf
 video_metadata:
   youtube_id: ZQu2B3GyI_k
 ---

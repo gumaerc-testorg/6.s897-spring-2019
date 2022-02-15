@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 13: Machine Learning for Mammography'
 uid: b6cd8c0c-9d7e-8c0a-1a9e-7a4f799cd127
 video_files:
   archive_url: https://archive.org/download/MIT6.S897S19/MIT6_S897S19_lec13_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-s897-machine-learning-for-healthcare-spring-2019/55ff325c5b225a859893247cd278da13_2ZXYM1h9pgY.vtt
+  video_captions_file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/55ff325c5b225a859893247cd278da13_2ZXYM1h9pgY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/2ZXYM1h9pgY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-s897-machine-learning-for-healthcare-spring-2019/6827cbb86b351807d8f7cbd09d995e18_2ZXYM1h9pgY.pdf
+  video_transcript_file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/6827cbb86b351807d8f7cbd09d995e18_2ZXYM1h9pgY.pdf
 video_metadata:
   youtube_id: 2ZXYM1h9pgY
 ---
