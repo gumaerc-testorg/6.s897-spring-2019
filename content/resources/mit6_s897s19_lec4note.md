@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1d48edcc-24db-1ff9-4c54-c8ab1045e257
 resourcetype: Document
 title: 6.S897 Machine Learning for Healthcare, Lecture 4 Notes
 uid: a9f17e53-1c3f-7cec-0728-95214a13628d

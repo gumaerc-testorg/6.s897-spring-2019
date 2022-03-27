@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1d48edcc-24db-1ff9-4c54-c8ab1045e257
 resourcetype: Document
 title: '6.S897 Machine Learning for Healthcare, Lecture 6: Physiological Time-Series'
 uid: 2f322bbc-dc51-69c0-15f2-4a7ec3e76d4a
