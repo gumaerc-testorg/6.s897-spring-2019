@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,4 +29,7 @@ Prof. Sontag gives an overview of the problem of healthcare in the US. He gives 
 
 Speaker: David Sontag
 
-[Lecture 1: Introduction: What Makes Healthcare Unique? slides (PDF - 2.8MB)]({{< baseurl >}}/resources/mit6_s897s19_lec1)
+{{% resource_link 2020812c-6b3b-e9e2-c278-73595d1a9aed "Lecture 1: Introduction: What Makes Healthcare Unique? slides (PDF - 2.8MB)" %}}
+
+
+

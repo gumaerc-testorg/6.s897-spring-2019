@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Suggestions for final projects for 6.S897 Machine Learning for Healthcare.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -34,8 +35,8 @@ Below are some examples of research papers that used the MIMIC-III dataset:
 *   Dernoncourt et al, 2016. "[De-Identification of Patient Notes with Recurrent Neural Networks](https://academic.oup.com/jamia/article/24/3/596/2769353)." _JAMIA_. 
 *   Ghassemi et al, 2014. "[Unfolding Physiological State: Mortality Modelling in Intensive Care Units](https://www.ncbi.nlm.nih.gov/pubmed/25289175)." _KDD_. 
 *   Boag et al, 2018. "[Racial Disparities and Mistrust in End of Life Care](https://arxiv.org/abs/1808.03827)." _MLHC_.
-*   Johnson et al, 2017. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Reproducibility in Critical Care: A Mortality Prediction Case Study](http://proceedings.mlr.press/v68/johnson17a.html)." _MLHC_. 
-*   Schulam et al. 2016. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Integrative Analysis using Coupled Latent Variable Models for Individualizing Prognoses (PDF)](http://jmlr.org/papers/volume17/15-436/15-436.pdf)." _JMLR_. 
+*   Johnson et al, 2017. "[Reproducibility in Critical Care: A Mortality Prediction Case Study](http://proceedings.mlr.press/v68/johnson17a.html)." _MLHC_. 
+*   Schulam et al. 2016. "[Integrative Analysis using Coupled Latent Variable Models for Individualizing Prognoses (PDF)](http://jmlr.org/papers/volume17/15-436/15-436.pdf)." _JMLR_. 
 *   Young et al. 2018. "[Uncovering the Heterogeneity and Temporal Complexity of Neurodegenerative Diseases with Subtype and Stage Inference](https://www.nature.com/articles/s41467-018-05892-0)." _Nature Communications_. 
 
 ### Machine Learning Methodology
@@ -74,12 +75,12 @@ Below are examples of papers that have explored some of the above questions. We 
 The projects mentioned here focus on developing new machine learning methods:
 
 *   Develop better deep learning algorithms for claims data.
-    *   Example: widening the gap between the deep learning and baseline methods from [Rajkomar et al., 2018](https://www.nature.com/articles/s41746-018-0029-1) and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Choi et al., 2016 Doctor AI (PDF)](http://proceedings.mlr.press/v56/Choi16.pdf). You could design [new architectures](https://ieeexplore.ieee.org/abstract/document/7762861) that are better suited for medical data, unsupervised learning algorithms (see e.g. [Choi et al., 2016 Relationships](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5001761/) and [Beam et al., 2018](https://arxiv.org/abs/1804.01486)), etc.
+    *   Example: widening the gap between the deep learning and baseline methods from [Rajkomar et al., 2018](https://www.nature.com/articles/s41746-018-0029-1) and [Choi et al., 2016 Doctor AI (PDF)](http://proceedings.mlr.press/v56/Choi16.pdf). You could design [new architectures](https://ieeexplore.ieee.org/abstract/document/7762861) that are better suited for medical data, unsupervised learning algorithms (see e.g. [Choi et al., 2016 Relationships](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5001761/) and [Beam et al., 2018](https://arxiv.org/abs/1804.01486)), etc.
 *   Develop synthetic data generation methods that produce realistic data but have provable privacy guarantees (this is a good project for a group with a theoretical computer science bent).
     *   Recent work has been interested in using deep learning for this, e.g. [Choi et al., 2017](https://arxiv.org/abs/1703.06490) and [Hyland et al., 2017](https://arxiv.org/abs/1706.02633). However, there is a natural trade-off between truly capturing the data density (not just being able to reproduce aggregate statistics from synthetic data) and not leaking private information from the training data. How does one formalize this mathematically?
 *   Learn models of what a "normal" treatment policy is for a disease (note: it may be sequential).
     *   How do these differ across populations, either geographic or based on patient characteristics? Can you automatically discover different treatment strategies for the same condition? Can you identify patients that are outliers or are receiving abnormal treatment (these may because of fraud, improper treatment, medical errors, etc.)?
-*   Develop algorithms for inferring causality (e.g., one condition causes another, or a medication causes a side-effect) from longitudinal claims data, e.g. by using ideas from Granger causality, the recently developed [entropic causality](https://arxiv.org/abs/1611.04035), causal Bayesian networks, or ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hawkes processes (PDF)](https://people.csail.mit.edu/yujia/assets/pdf/hawkes_pdf.pdf).
+*   Develop algorithms for inferring causality (e.g., one condition causes another, or a medication causes a side-effect) from longitudinal claims data, e.g. by using ideas from Granger causality, the recently developed [entropic causality](https://arxiv.org/abs/1611.04035), causal Bayesian networks, or [Hawkes processes (PDF)](https://people.csail.mit.edu/yujia/assets/pdf/hawkes_pdf.pdf).
 *   Develop algorithms to identify and explain non-stationarity, e.g. through changepoint detection and interpretable ML algorithms.
 
 Other Datasets

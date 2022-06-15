@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,4 +29,7 @@ Prof. Szolovits gives an overview of clinical care from the past to the present.
 
 Speaker: Peter Szolovits
 
-[Lecture 2: Overview of Clinical Care slides (PDF - 3.9MB)]({{< baseurl >}}/resources/mit6_s897s19_lec2)
+{{% resource_link 0ea60e88-1b96-ffbc-4896-947d816bc434 "Lecture 2: Overview of Clinical Care slides (PDF - 3.9MB)" %}}
+
+
+

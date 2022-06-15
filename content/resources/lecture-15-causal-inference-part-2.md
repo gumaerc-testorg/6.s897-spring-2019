@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -30,4 +31,7 @@ Prof. Sontag discusses a causal inference setting from a causal graphs perspecti
 
 Speaker: David Sontag
 
-[Lecture 15: Causal Inference, Part 2 slides (PDF)]({{< baseurl >}}/resources/mit6_s897s19_lec15-2020)
+{{% resource_link cdaa2a29-2b4b-4eba-2f6f-fffea7546a29 "Lecture 15: Causal Inference, Part 2 slides (PDF)" %}}
+
+
+

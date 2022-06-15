@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,4 +29,7 @@ Dr. Yala discusses deep learning models for mammogram interpretation and triagin
 
 Speaker: Adam Yala
 
-[Lecture 13: Machine Learning for Mammography slides (PDF - 2.5MB)]({{< baseurl >}}/resources/mit6_s897s19_lec13)
+{{% resource_link 85e4e6d6-c379-d4f0-33fe-ac9ae904200e "Lecture 13: Machine Learning for Mammography slides (PDF - 2.5MB)" %}}
+
+
+

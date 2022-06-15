@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,4 +29,7 @@ Prof. Szolovits gives a deep dive into clinical data, the types of data, and how
 
 Speaker: Peter Szolovits
 
-[Lecture 3: Deep Dive into Clinical Data slides (PDF - 2.1MB)]({{< baseurl >}}/resources/mit6_s897s19_lec3)
+{{% resource_link 32c1f4a7-7bf9-91ff-7a40-497d7fdc1e51 "Lecture 3: Deep Dive into Clinical Data slides (PDF - 2.1MB)" %}}
+
+
+

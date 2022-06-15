@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Syllabus with course description and grading guidelines for 6.S897 Machine
+  Learning for Healthcare.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +16,7 @@ Lecture: 2 sessions / week; 1.5 hours / session
 Prerequisites
 -------------
 
-This course requires at least an undergraduate level of machine learning which can be satisfied by _6.036 Introduction to Machine Learning_ or _6.862 Applied Machine Learning_ or _[6.867 Machine Learning](/courses/6-867-machine-learning-fall-2006/)_ or _9.520J/6.860J Statistical Learning Theory and Applications_ or _[6.806/6.864 Advanced Natural Language Processing](/courses/6-864-advanced-natural-language-processing-fall-2005/)_ or _[6.438 Algorithms for Inference](/courses/6-438-algorithms-for-inference-fall-2014/)_ or _[6.034 Artificial Intelligence](/courses/6-034-artificial-intelligence-fall-2010/)._
+This course requires at least an undergraduate level of machine learning which can be satisfied by _6.036 Introduction to Machine Learning_ or _6.862 Applied Machine Learning_ or _[6.867 Machine Learning](/courses/6-867-machine-learning-fall-2006)_ or _9.520J/6.860J Statistical Learning Theory and Applications_ or _[6.806/6.864 Advanced Natural Language Processing](/courses/6-864-advanced-natural-language-processing-fall-2005)_ or _[6.438 Algorithms for Inference](/courses/6-438-algorithms-for-inference-fall-2014)_ or _[6.034 Artificial Intelligence](/courses/6-034-artificial-intelligence-fall-2010)._
 
 Course Description
 ------------------

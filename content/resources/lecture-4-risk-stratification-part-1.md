@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,4 +29,7 @@ Prof. Sontag discusses risk stratification and works through a case study of ear
 
 Speakers: David Sontag, Leonard D'Avolio
 
-[Lecture 4: Risk Stratification, Part 1 slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit6_s897s19_lec4)
+{{% resource_link d513d4a3-68a5-4558-7bc2-645007516c61 "Lecture 4: Risk Stratification, Part 1 slides (PDF - 1.2MB)" %}}
+
+
+

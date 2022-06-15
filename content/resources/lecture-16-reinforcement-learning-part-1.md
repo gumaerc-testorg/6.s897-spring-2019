@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,4 +29,7 @@ Dr. Johansson covers an overview of treatment policies and potential outcomes, a
 
 Speaker: Fredrik D. Johansson
 
-[Lecture 16: Reinforcement Learning slides (PDF)]({{< baseurl >}}/resources/mit6_s897s19_lec16)
+{{% resource_link 05cad3ac-a76d-2c2d-a9fc-df91e2048b0f "Lecture 16: Reinforcement Learning slides (PDF)" %}}
+
+
+

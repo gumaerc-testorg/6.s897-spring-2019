@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,4 +29,7 @@ Prof. Sontag continues with the topic of risk stratification. He discusses the d
 
 Speaker: David Sontag
 
-[Lecture 5: Risk Stratification, Part 2 slides (PDF - 2.2MB)]({{< baseurl >}}/resources/mit6_s897s19_lec5)
+{{% resource_link 476c3cde-af64-631d-2fb0-332832ff6250 "Lecture 5: Risk Stratification, Part 2 slides (PDF - 2.2MB)" %}}
+
+
+

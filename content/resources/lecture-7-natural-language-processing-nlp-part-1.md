@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,4 +29,7 @@ This lecture and the next cover the role of natural language processing in machi
 
 Speaker: Peter Szolovits
 
-[Lecture 7: Natural Language Processing (NLP), Part 1 slides (PDF - 1.3MB)]({{< baseurl >}}/resources/mit6_s897s19_lec7)
+{{% resource_link 4690584c-5836-f89a-2268-ac33e6710b14 "Lecture 7: Natural Language Processing (NLP), Part 1 slides (PDF - 1.3MB)" %}}
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -29,6 +30,9 @@ Andy Coravos gives an overview of US regulatory agencies and their role in overs
 
 Speakers: Andy Coravos, Mark Shervey
 
-[Lecture 22.1: Regulation of ML/AI in the US slides (PDF - 2.9MB)]({{< baseurl >}}/resources/mit6_s897s19_lec22-1)
+{{% resource_link 31974fc2-c06e-71ba-4932-e652cc0e7103 "Lecture 22.1: Regulation of ML/AI in the US slides (PDF - 2.9MB)" %}}
 
-[Lecture 22.2: Human Subjects Research slides (PDF)]({{< baseurl >}}/resources/mit6_s897s19_lec22-2)
+{{% resource_link 8977940e-33fc-2a18-6a40-ba7f4b053460 "Lecture 22.2: Human Subjects Research slides (PDF)" %}}
+
+
+

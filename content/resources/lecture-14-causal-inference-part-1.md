@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,4 +29,7 @@ Prof. Sontag discusses causal inference, examples of causal questions, and how t
 
 Speaker: David Sontag
 
-[Lecture 14: Causal Inference, Part 1 slides (PDF - 2.2MB)]({{< baseurl >}}/resources/mit6_s897s19_lec14)
+{{% resource_link ebe128ab-8488-bae8-e6a7-e6cab50a9033 "Lecture 14: Causal Inference, Part 1 slides (PDF - 2.2MB)" %}}
+
+
+
