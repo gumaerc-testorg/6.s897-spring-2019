@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -33,6 +34,4 @@ Speakers: Andy Coravos, Mark Shervey
 {{% resource_link 31974fc2-c06e-71ba-4932-e652cc0e7103 "Lecture 22.1: Regulation of ML/AI in the US slides (PDF - 2.9MB)" %}}
 
 {{% resource_link 8977940e-33fc-2a18-6a40-ba7f4b053460 "Lecture 22.2: Human Subjects Research slides (PDF)" %}}
-
-
 

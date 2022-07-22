@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Prof. Sontag continues with the topic of risk stratification. He discusses the d
 Speaker: David Sontag
 
 {{% resource_link 476c3cde-af64-631d-2fb0-332832ff6250 "Lecture 5: Risk Stratification, Part 2 slides (PDF - 2.2MB)" %}}
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ In the first half, Prof. Sontag discusses how to evaluate different policies in 
 Speakers: David Sontag, Barbra Dickerman
 
 {{% resource_link 9eac32a5-6066-df6e-aa3d-20329a52c11d "Lecture 17: Evaluating Dynamic Treatment Strategies slides (PDF)" %}}
-
-
 

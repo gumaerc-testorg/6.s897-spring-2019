@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Prof. Szolovits gives a deep dive into clinical data, the types of data, and how
 Speaker: Peter Szolovits
 
 {{% resource_link 32c1f4a7-7bf9-91ff-7a40-497d7fdc1e51 "Lecture 3: Deep Dive into Clinical Data slides (PDF - 2.1MB)" %}}
-
-
 

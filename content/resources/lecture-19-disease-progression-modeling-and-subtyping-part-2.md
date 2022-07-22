@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Prof. Sontag begins with a recap of the goal of disease progression modeling and
 Speaker: David Sontag
 
 {{% resource_link f378d175-5d95-7d78-d2f1-a445e5bcba39 "Lecture 19: Disease Progression & Subtyping, Part 2 slides (PDF - 3.2MB)" %}}
-
-
 

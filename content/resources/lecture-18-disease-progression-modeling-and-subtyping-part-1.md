@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Prof. Sontag discusses aspects of disease progression modeling, including stagin
 Speaker: David Sontag
 
 {{% resource_link e09af530-8ddd-0856-6747-347ad6a2fab5 "Lecture 18: Disease Progression & Subtyping, Part 1 slides (PDF - 1.6MB)" %}}
-
-
 

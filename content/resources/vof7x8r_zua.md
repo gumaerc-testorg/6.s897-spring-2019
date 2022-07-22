@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/dde0c34ed9aef90723548338e4dd4f9a_vof7x8r_ZUA.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

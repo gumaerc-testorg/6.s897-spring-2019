@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Guest lecturer Rahul Deo, the lead investigator of the One Brave Idea project at
 Speaker: Rahul Deo
 
 {{% resource_link 4714b64e-996e-8344-09e4-abab3628ebd7 "Lecture 10: Machine Learning for Cardiology slides (PDF - 5.3MB)" %}}
-
-
 

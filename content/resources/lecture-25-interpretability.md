@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Prof. Szolovits discusses interpretability because modern machine learning model
 Speaker: Peter Szolovits
 
 {{% resource_link 1eb4d291-eced-8293-fe1b-66f7561e6b24 "Lecture 25: Interpretability slides (PDF - 3.2MB)" %}}
-
-
 

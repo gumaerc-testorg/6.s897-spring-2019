@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Prof. Szolovits gives an introduction to disease subtyping and discusses collect
 Speaker: Peter Szolovits
 
 {{% resource_link f4c352d3-571d-6966-3920-eeb70162c7cf "Lecture 20: Precision Medicine slides (PDF - 1.6MB)" %}}
-
-
 

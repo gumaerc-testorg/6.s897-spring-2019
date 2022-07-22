@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Prof. Szolovits gives an overview of clinical care from the past to the present.
 Speaker: Peter Szolovits
 
 {{% resource_link 0ea60e88-1b96-ffbc-4896-947d816bc434 "Lecture 2: Overview of Clinical Care slides (PDF - 3.9MB)" %}}
-
-
 

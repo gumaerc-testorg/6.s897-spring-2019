@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Prof. Szolovits discusses the hype cycle as well as two examples of machine lear
 Speakers: Peter Szolovits, Adam Wright
 
 {{% resource_link bf3e5592-508a-df84-f31d-8c6d0aac4936 "Lecture 9: Translating Technology into the Clinic slides (PDF)" %}}
-
-
 

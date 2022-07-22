@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Dr. Beck begins with a short background of pathology and his work at PathAI. He 
 Speaker: Andy Beck
 
 {{% resource_link 5b28c3a5-a47a-51fa-f2c9-7f17d2a8f5a1 "Lecture 12: Machine Learning for Pathology slides (PDF - 6.5MB)" %}}
-
-
 

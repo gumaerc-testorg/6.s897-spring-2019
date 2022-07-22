@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ This lecture is primarily a discussion on things that can go wrong when deployin
 Speaker: David Sontag
 
 {{% resource_link cdeb65a4-4539-d3ae-16b4-39f489f0f0f0 "Lecture 24: Robustness to Dataset Shift slides (PDF - 2.2MB)" %}}
-
-
 

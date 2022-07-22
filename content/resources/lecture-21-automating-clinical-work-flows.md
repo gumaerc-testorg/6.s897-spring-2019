@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -33,6 +34,4 @@ Prof. Szolovits discusses ways of improving medical care and narrowing performan
 Speaker: Peter Szolovits
 
 {{% resource_link a3dfa313-41fc-de1c-9f77-8d012e804c28 "Lecture 21: Automating Clinical Workflows slides (PDF - 1.6MB)" %}}
-
-
 

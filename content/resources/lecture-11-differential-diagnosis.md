@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Prof. Szolovits explains differential diagnosis, the distinguishing of a conditi
 Speaker: Peter Szolovits
 
 {{% resource_link e50b5bb5-bb19-2ba6-b6d9-95af8aad0597 "Lecture 11: Machine Learning for Differential Diagnosis slides (PDF - 1.8MB)" %}}
-
-
 

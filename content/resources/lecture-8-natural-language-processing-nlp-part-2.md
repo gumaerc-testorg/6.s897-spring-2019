@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Prof. Szolovits covers Natural Language Processing methods including those which
 Speaker: Peter Szolovits
 
 {{% resource_link d39a6eed-387e-e90b-1f72-a01949c35c7b "Lecture 8: Natural Language Processing (NLP), Part 2 slides (PDF - 2.0MB)" %}}
-
-
 

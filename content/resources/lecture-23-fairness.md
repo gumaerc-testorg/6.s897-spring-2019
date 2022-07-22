@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ In this lecture, Prof. Szolovits talks about algorithmic fairness and fairness i
 Speaker: Peter Szolovits
 
 {{% resource_link da43f266-64d8-e6bf-6b0a-e754bd656e6a "Lecture 23: Fairness slides (PDF - 1.5MB)" %}}
-
-
 

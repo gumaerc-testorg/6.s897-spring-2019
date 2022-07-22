@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Prof. Sontag gives a recap of risk stratification and then explains physiologica
 Speaker: David Sontag
 
 {{% resource_link 2f322bbc-dc51-69c0-15f2-4a7ec3e76d4a "Lecture 6: Physiological Time-Series slides (PDF - 1.5MB)" %}}
-
-
 
