@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Calendar with session topics and key dates for 6.S897 Machine Learning
+  for Healthcare.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 4fe58473-3624-1b32-18e1-e179880227a4
 ---

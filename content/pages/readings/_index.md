@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Full list of required and recommended readings for for 6.S897 Machine
+  Learning for Healthcare.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b6a65dfb-0542-a2bd-f8cb-9752be672c9e
 ---

@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: Final project instructions and guidelines for for 6.S897 Machine Learning
+  for Healthcare.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 8f308296-4b99-c74b-3eca-95954f1f7ea2
 ---
 
-Projects will include a proposal, poster presentation, and final report. See the list of [final project suggestions]({{< baseurl >}}/pages/projects/final-project-suggestions).
+Projects will include a proposal, poster presentation, and final report. See the list of {{% resource_link fd4248e5-f68f-2233-10cd-dc3d049961b4 "final project suggestions" %}}.
 
 Collaboration: Students should be in groups of three registered students. Doing something related to your research is fine, but your class project should be distinct and you should be able to isolate your contributions to the project from those of any collaborators outside of the class.
 

@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: Questions to accompany class readings for 6.S897 Machine Learning for
+  Healthcare.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: b6a65dfb-0542-a2bd-f8cb-9752be672c9e
 title: Reading Questions
 uid: 4ff5320f-dbe1-919e-5251-edd7ae294617
@@ -10,7 +16,7 @@ Session 3 Reading Questions
 ---------------------------
 
 *   What are some of the challenges of using retrospective data from electronic health records?
-*   The paper states that "the presence of a white blood cell count test order is associated with a 2.1% lower survival rate (P<0.001)." What does the P<0.001 signify?
+*   The paper states that "the presence of a white blood cell count test order is associated with a 2.1% lower survival rate (P\<0.001)." What does the P\<0.001 signify?
 *   All else equal, would we expect the survival rate to be higher for a patient with a 5pm white blood test or a 5am white blood test?
 *   All else equal, would we expect the survival rate to be higher for a patient with a Sunday white blood test or a Wednesday white blood test?
 *   Besides time of lab test and the lab test value, what other healthcare process variables might give additional signal for prediction of 3-year survival?
