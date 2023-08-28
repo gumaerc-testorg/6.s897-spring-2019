@@ -2,91 +2,35 @@
 content_type: page
 description: Calendar with session topics and key dates for 6.S897 Machine Learning
   for Healthcare.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 4fe58473-3624-1b32-18e1-e179880227a4
 ---
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Ses #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 Topics
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 Key Dates
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Introduction: What Makes Healthcare Unique?
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Problem Set 0 Out
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Overview of Clinical Care
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Deep Dive into Clinical Data
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Reading Questions
 
@@ -94,181 +38,75 @@ Problem Set 0 Due
 
 Problem Set 1 Out
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Risk Stratification, Part 1
 
 Discussant: [Leonard D'Avolio](https://scholar.harvard.edu/len/home)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Reading Questions
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Risk Stratification, Part 2
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Reading Questions
 
 Problem Set 1 Due
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Physiological Time-Series
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Reading Questions
 
 Problem Set 2 Out
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Natural Language Processing (NLP), Part 1
 
 Discussant: [Katherine Liao](https://researchfaculty.brighamandwomens.org/BRIProfile.aspx?id=4582)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Reading Questions
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Natural Language Processing (NLP), Part 2
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Problem Set 2 Due
 
 Problem Set 3 Out
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Translating Technology into the Clinic
 
 Discussant: [Adam Wright](https://dbmi.hms.harvard.edu/people/adam-wright)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Machine Learning for Cardiology
 
 Guest Lecture: [Rahul Deo](https://www.onebraveidea.org/team/rahul-deo/)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Reading Questions
 
@@ -276,176 +114,69 @@ Problem Set 3 Due
 
 Problem Set 4 Out
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Machine Learning for Differential Diagnosis
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Reading Questions
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Machine Learning for Pathology
 
-Guest Lecture: [Andy Beck](https://becklab.hms.harvard.edu/people/andrew-beck)
+Guest Lecture: [Andy Beck](https://www.pathai.com/about-us/andy-beck/)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Reading Questions
 
 Problem Set 4 Due
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Machine Learning for Mammography 
 
-Guest Lecture: [Connie Lehman](https://www.massgeneral.org/doctors/doctor.aspx?id=19730), [Adam Yala](http://adamyala.csail.mit.edu/)
+Guest Lecture: [Connie Lehman](https://www.massgeneral.org/doctors/19730/connie-lehman), [Adam Yala](http://adamyala.csail.mit.edu/)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Reading Questions
 
 Project Proposals Due
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Causal Inference, Part 1
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Reading Questions
 
 Problem Set 5 Out
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Causal Inference, Part 2
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Midsemester Feedback
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Reinforcement Learning, Part 1
 
 Guest Lecture: [Fredrik Johansson](http://www.mit.edu/~fredrikj/)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Reading Questions
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Reinforcement Learning, Part 2
 
@@ -453,117 +184,39 @@ Guest Lecture: [Barbra Dickerman](https://scholar.google.com/citations?user=wDxS
 
 Evaluating Dynamic Treatment Strategies
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Reading Questions
 
 Problem Set 5 Due
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Disease Progression & Subtyping, Part 1
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Problem Set 6 Out
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Disease Progression & Subtyping, Part 2
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Precision Medicine
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Problem Set 6 Due
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Automating Clinical Workflows
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Regulation of ML/AI in the US
 
@@ -573,84 +226,24 @@ Human Subjects Research
 
 Guest Lecture: [Mark Shervey](https://twitter.com/markshervey)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Reading Questions
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Fairness
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Robustness to Dataset Shift
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Project Presentations
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Interpretability
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Project Reports Due
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
