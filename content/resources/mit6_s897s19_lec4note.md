@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/a9f17e531c3f7cec072895214a13628d_MIT6_S897S19_lec4note.pdf
+file_size: 389044
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

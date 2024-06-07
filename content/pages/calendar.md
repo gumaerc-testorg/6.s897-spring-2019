@@ -170,7 +170,7 @@ Midsemester Feedback
 
 Reinforcement Learning, Part 1
 
-Guest Lecture: [Fredrik Johansson](http://www.mit.edu/~fredrikj/)
+Guest Lecture: Fredrik Johansson
 
 {{< tdclose >}}{{< tdopen >}}
 Reading Questions
