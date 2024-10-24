@@ -74,7 +74,7 @@ Problem Set 2 Out
 
 Natural Language Processing (NLP), Part 1
 
-Discussant: [Katherine Liao](https://researchfaculty.brighamandwomens.org/BRIProfile.aspx?id=4582)
+Discussant: [Katherine Liao](https://physiciandirectory.brighamandwomens.org/details/221/katherine-liao-rheumatology-boston)
 
 {{< tdclose >}}{{< tdopen >}}
 Reading Questions
@@ -220,7 +220,7 @@ Automating Clinical Workflows
 
 Regulation of ML/AI in the US
 
-Guest Lecture: [Andy Coravos](http://www.andreacoravos.com)
+Guest Lecture: [Andy Coravos](http://www.andreacoravos.com/)
 
 Human Subjects Research
 
