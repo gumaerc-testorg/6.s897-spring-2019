@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-s897-machine-learning-for-healthcare-spring-2019/ae441e1fa82dad9fcb55b4468fb94247_wDLzLN1tArA.srt
+file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/ae441e1fa82dad9fcb55b4468fb94247_wDLzLN1tArA.srt
 file_size: 104827
 file_type: application/x-subrip
 learning_resource_types: []
