@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/14674b708bd15b1f166493960e670fbf_MIT6_S897S19_lec15note.pdf
+file: /ol-ocw-studio-app/courses/6-s897-machine-learning-for-healthcare-spring-2019/14674b708bd15b1f166493960e670fbf_MIT6_S897S19_lec15note.pdf
 file_size: 352288
 file_type: application/pdf
 learning_resource_types:
