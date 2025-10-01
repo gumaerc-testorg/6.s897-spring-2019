@@ -31,13 +31,13 @@ MIMIC-III provides a wealth of data to tackle a variety of clinical tasks in the
 
 Below are some examples of research papers that used the MIMIC-III dataset:
 
-*   Che et al, 2018. "[Recurrent Neural Networks for Multivariate Time Series with Missing Values](https://www.nature.com/articles/s41598-018-24271-9)." _Nature Scientific Reports._ 
-*   Dernoncourt et al, 2016. "[De-Identification of Patient Notes with Recurrent Neural Networks](https://academic.oup.com/jamia/article/24/3/596/2769353)." _JAMIA_. 
-*   Ghassemi et al, 2014. "[Unfolding Physiological State: Mortality Modelling in Intensive Care Units](https://www.ncbi.nlm.nih.gov/pubmed/25289175)." _KDD_. 
-*   Boag et al, 2018. "[Racial Disparities and Mistrust in End of Life Care](https://arxiv.org/abs/1808.03827)." _MLHC_.
-*   Johnson et al, 2017. "[Reproducibility in Critical Care: A Mortality Prediction Case Study](http://proceedings.mlr.press/v68/johnson17a.html)." _MLHC_. 
-*   Schulam et al. 2016. "[Integrative Analysis using Coupled Latent Variable Models for Individualizing Prognoses (PDF)](http://jmlr.org/papers/volume17/15-436/15-436.pdf)." _JMLR_. 
-*   Young et al. 2018. "[Uncovering the Heterogeneity and Temporal Complexity of Neurodegenerative Diseases with Subtype and Stage Inference](https://www.nature.com/articles/s41467-018-05892-0)." _Nature Communications_. 
+*   Che et al, 2018. "{{% resource_link "6c0c3a87-4ea6-4853-adc2-812423010ebb" "Recurrent Neural Networks for Multivariate Time Series with Missing Values" %}}." _Nature Scientific Reports._ 
+*   Dernoncourt et al, 2016. "{{% resource_link "8350ffa3-1ac5-4a03-a6fb-0b5b24610f61" "De-Identification of Patient Notes with Recurrent Neural Networks" %}}." _JAMIA_. 
+*   Ghassemi et al, 2014. "{{% resource_link "8dbea310-43cb-4b67-ad4b-e3e3a957cd82" "Unfolding Physiological State: Mortality Modelling in Intensive Care Units" %}}." _KDD_. 
+*   Boag et al, 2018. "{{% resource_link "0d1437ea-e21f-4a50-9344-430f454ecd12" "Racial Disparities and Mistrust in End of Life Care" %}}." _MLHC_.
+*   Johnson et al, 2017. "{{% resource_link "e49f0b7e-5058-46f0-946a-cb0d8ddc49a8" "Reproducibility in Critical Care: A Mortality Prediction Case Study" %}}." _MLHC_. 
+*   Schulam et al. 2016. "{{% resource_link "73619918-54c1-42dc-922f-d9cf480adb60" "Integrative Analysis using Coupled Latent Variable Models for Individualizing Prognoses (PDF)" %}}." _JMLR_. 
+*   Young et al. 2018. "{{% resource_link "f453c6cc-6e63-48e1-8eb4-bfce4214af2b" "Uncovering the Heterogeneity and Temporal Complexity of Neurodegenerative Diseases with Subtype and Stage Inference" %}}." _Nature Communications_. 
 
 ### Machine Learning Methodology
 
@@ -65,36 +65,36 @@ This type of MarketScan project will focus on studying a new clinical question u
 
 Below are examples of papers that have explored some of the above questions. We encourage students to use these for inspiration, but to tackle new clinical questions that weren’t already answered in these (e.g., studying a different disease or a different outcome).
 
-*   _Example of Prediction_: Razavian et al., 2015. "[Population-Level Prediction of Type 2 Diabetes From Claims Data and Analysis of Risk Factors: Big Data.](https://www.liebertpub.com/doi/full/10.1089/big.2015.0020)"
-*   _Example of Causal inference_: Brat et al., 2018. "[Postsurgical Prescriptions for Opioid Naive Patients and Association With Overdose and Misuse: Retrospective Cohort Study.](https://www.bmj.com/content/360/bmj.j5790)"
-*   _Example of Characterization_: Hripcsak et al., 2016. "[Characterizing Treatment Pathways at Scale Using the OHDSI Network, PNAS.](https://www.pnas.org/content/early/2016/06/01/1510502113.full)"
-*   _Example of Subtyping_: Doshi-Velez et al., 2014. "[Comorbidity Clusters in Autism Spectrum Disorders: An Electronic Health Record Time-Series Analysis, Pediatrics.](https://www.ncbi.nlm.nih.gov/pubmed/24323995)"
+*   _Example of Prediction_: Razavian et al., 2015. "{{% resource_link "f33b5a83-3de0-4b87-99ac-f3a2b8decf29" "Population-Level Prediction of Type 2 Diabetes From Claims Data and Analysis of Risk Factors: Big Data." %}}"
+*   _Example of Causal inference_: Brat et al., 2018. "{{% resource_link "a0fdf791-8dd7-4467-807d-5193ba812269" "Postsurgical Prescriptions for Opioid Naive Patients and Association With Overdose and Misuse: Retrospective Cohort Study." %}}"
+*   _Example of Characterization_: Hripcsak et al., 2016. "{{% resource_link "f1ecc2b7-d3b2-4e49-9c84-c43ba1405bd0" "Characterizing Treatment Pathways at Scale Using the OHDSI Network, PNAS." %}}"
+*   _Example of Subtyping_: Doshi-Velez et al., 2014. "{{% resource_link "69b135d1-c0fa-4f84-85f1-0f4c35bd2d1a" "Comorbidity Clusters in Autism Spectrum Disorders: An Electronic Health Record Time-Series Analysis, Pediatrics." %}}"
 
 ### Machine Learning Methodology
 
 The projects mentioned here focus on developing new machine learning methods:
 
 *   Develop better deep learning algorithms for claims data.
-    *   Example: widening the gap between the deep learning and baseline methods from [Rajkomar et al., 2018](https://www.nature.com/articles/s41746-018-0029-1) and [Choi et al., 2016 Doctor AI (PDF)](http://proceedings.mlr.press/v56/Choi16.pdf). You could design [new architectures](https://ieeexplore.ieee.org/abstract/document/7762861) that are better suited for medical data, unsupervised learning algorithms (see e.g. [Choi et al., 2016 Relationships](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5001761/) and [Beam et al., 2018](https://arxiv.org/abs/1804.01486)), etc.
+    *   Example: widening the gap between the deep learning and baseline methods from {{% resource_link "2b7ce9cf-58a7-449f-8fd1-b84ad9353336" "Rajkomar et al., 2018" %}} and {{% resource_link "51906a68-d9a4-4299-bd1e-16b3f47fa977" "Choi et al., 2016 Doctor AI (PDF)" %}}. You could design {{% resource_link "b0ada66b-7622-4e28-9a3f-096f2ad2d674" "new architectures" %}} that are better suited for medical data, unsupervised learning algorithms (see e.g. {{% resource_link "13b802aa-dfbb-41ea-881f-5f3ebe564089" "Choi et al., 2016 Relationships" %}} and {{% resource_link "efa60938-db0a-4945-8672-f85a05cb44d6" "Beam et al., 2018" %}}), etc.
 *   Develop synthetic data generation methods that produce realistic data but have provable privacy guarantees (this is a good project for a group with a theoretical computer science bent).
-    *   Recent work has been interested in using deep learning for this, e.g. [Choi et al., 2017](https://arxiv.org/abs/1703.06490) and [Hyland et al., 2017](https://arxiv.org/abs/1706.02633). However, there is a natural trade-off between truly capturing the data density (not just being able to reproduce aggregate statistics from synthetic data) and not leaking private information from the training data. How does one formalize this mathematically?
+    *   Recent work has been interested in using deep learning for this, e.g. {{% resource_link "9fb23b43-5951-4c18-b099-12505576120f" "Choi et al., 2017" %}} and {{% resource_link "6711269c-afb5-4707-8596-6033808b7d69" "Hyland et al., 2017" %}}. However, there is a natural trade-off between truly capturing the data density (not just being able to reproduce aggregate statistics from synthetic data) and not leaking private information from the training data. How does one formalize this mathematically?
 *   Learn models of what a "normal" treatment policy is for a disease (note: it may be sequential).
     *   How do these differ across populations, either geographic or based on patient characteristics? Can you automatically discover different treatment strategies for the same condition? Can you identify patients that are outliers or are receiving abnormal treatment (these may because of fraud, improper treatment, medical errors, etc.)?
-*   Develop algorithms for inferring causality (e.g., one condition causes another, or a medication causes a side-effect) from longitudinal claims data, e.g. by using ideas from Granger causality, the recently developed [entropic causality](https://arxiv.org/abs/1611.04035), causal Bayesian networks, or [Hawkes processes (PDF)](https://people.csail.mit.edu/yujia/assets/pdf/hawkes_pdf.pdf).
+*   Develop algorithms for inferring causality (e.g., one condition causes another, or a medication causes a side-effect) from longitudinal claims data, e.g. by using ideas from Granger causality, the recently developed {{% resource_link "46c003cb-8b44-4751-ac09-6314f063f3f0" "entropic causality" %}}, causal Bayesian networks, or {{% resource_link "ce8478f4-1aea-47ef-9af6-29e92d22b0c0" "Hawkes processes (PDF)" %}}.
 *   Develop algorithms to identify and explain non-stationarity, e.g. through changepoint detection and interpretable ML algorithms.
 
 Other Datasets
 --------------
 
-*   [Multiple Myeloma Research Foundation Compass](https://research.themmrf.org/)
-*   [The Parkinson’s Progression Markers Initiative](http://www.ppmi-info.org/)
-    *   Specific project suggestion: Learning a representation of MRI images that will help with downstream tasks, e.g. classifying healthy, prodromal, early-stage Parkinson’s, vs late-stage Parkinson’s, or time to outcome. Possible methodologies to consider include [3-D CNN](https://arxiv.org/abs/1806.05233), [voxel-based logistic regression](https://www.sciencedirect.com/science/article/pii/S1053811917301787?via%3Dihub), or principal components. Can you interpret what the representation is capturing?
-*   [eICU](https://eicu-crd.mit.edu/about/eicu/)
+*   {{% resource_link "3ac3465c-4ad2-4896-b84a-9bf82128584f" "Multiple Myeloma Research Foundation Compass" %}}
+*   {{% resource_link "984b3ff6-1024-4ab4-9a30-940a07a525f8" "The Parkinson’s Progression Markers Initiative" %}}
+    *   Specific project suggestion: Learning a representation of MRI images that will help with downstream tasks, e.g. classifying healthy, prodromal, early-stage Parkinson’s, vs late-stage Parkinson’s, or time to outcome. Possible methodologies to consider include {{% resource_link "1ff4e2aa-b0dd-4723-ae50-79a26f404205" "3-D CNN" %}}, {{% resource_link "cccff89d-53f1-491d-a953-a7fc2168f26a" "voxel-based logistic regression" %}}, or principal components. Can you interpret what the representation is capturing?
+*   {{% resource_link "2d3704ce-d428-4dfc-b8b5-ec9d34fe691e" "eICU" %}}
     *   Same access requirements as MIMIC-III. eICU has clinical ICU data from 200+ hospitals.
 *   Chest X-rays
-    *   [The MIMIC-CXR Database](https://archive.physionet.org/physiobank/database/mimiccxr/)
-    *   [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/)
-    *   [Open-i service of the National Library of Medicine](https://openi.nlm.nih.gov/faq)
+    *   {{% resource_link "5707743e-ed4e-45a0-adbf-6d4ef1c9f0c8" "The MIMIC-CXR Database" %}}
+    *   {{% resource_link "0dc37418-44bf-49a9-9a11-834fbcd1a38b" "CheXpert" %}}
+    *   {{% resource_link "330a3227-eb6c-4817-b51b-4cba1ba1a6bf" "Open-i service of the National Library of Medicine" %}}
         
-*   [The Osteoarthritis Initiative](https://data-archive.nimh.nih.gov/oai/)
-*   A more extensive [list of medical datasets](https://github.com/beamandrew/medical-data).
+*   {{% resource_link "295a3d8e-5184-4aa9-8a65-bd7708db71da" "The Osteoarthritis Initiative" %}}
+*   A more extensive {{% resource_link "c97b36ed-de05-4143-afe0-8e1f4b6bff9f" "list of medical datasets" %}}.
