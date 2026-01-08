@@ -44,7 +44,7 @@ Problem Set 1 Out
 
 Risk Stratification, Part 1
 
-Discussant: {{% resource_link "7df14a94-232d-4fe1-b673-baf92f9f6fee" "Leonard D'Avolio" %}}
+Discussant: [Leonard D'Avolio](https://scholar.harvard.edu/len/home)
 
 {{< tdclose >}}{{< tdopen >}}
 Reading Questions
@@ -74,7 +74,7 @@ Problem Set 2 Out
 
 Natural Language Processing (NLP), Part 1
 
-Discussant: {{% resource_link "fbdc253c-1910-436b-98ba-bb1eb4e27d7f" "Katherine Liao" %}}
+Discussant: [Katherine Liao](https://physiciandirectory.brighamandwomens.org/details/221/katherine-liao-rheumatology-boston)
 
 {{< tdclose >}}{{< tdopen >}}
 Reading Questions
@@ -94,7 +94,7 @@ Problem Set 3 Out
 
 Translating Technology into the Clinic
 
-Discussant: {{% resource_link "1808ab40-779d-445b-ab5d-5c34c17137ed" "Adam Wright" %}}
+Discussant: [Adam Wright](https://dbmi.hms.harvard.edu/people/adam-wright)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -104,7 +104,7 @@ Discussant: {{% resource_link "1808ab40-779d-445b-ab5d-5c34c17137ed" "Adam Wrigh
 
 Machine Learning for Cardiology
 
-Guest Lecture: {{% resource_link "4f74f235-1c84-4b44-a629-4598b3847ea9" "Rahul Deo" %}}
+Guest Lecture: [Rahul Deo](https://www.onebraveidea.org/team/rahul-deo/)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -126,7 +126,7 @@ Reading Questions
 
 Machine Learning for Pathology
 
-Guest Lecture: {{% resource_link "b7725e62-054d-4eac-862e-f25e758a48c1" "Andy Beck" %}}
+Guest Lecture: [Andy Beck](https://www.pathai.com/about-us/andy-beck/)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -140,7 +140,7 @@ Problem Set 4 Due
 
 Machine Learning for Mammography 
 
-Guest Lecture: {{% resource_link "a5a73171-bc92-4ee2-801a-7c2e4fcd0b0e" "Connie Lehman" %}}, {{% resource_link "684591f8-e0b2-489b-9afc-2b62dd1d8353" "Adam Yala" %}}
+Guest Lecture: [Connie Lehman](https://www.massgeneral.org/doctors/19730/connie-lehman), [Adam Yala](http://adamyala.csail.mit.edu/)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -180,7 +180,7 @@ Reading Questions
 
 Reinforcement Learning, Part 2
 
-Guest Lecture: {{% resource_link "713a4618-84a1-443f-b809-9089a80beba7" "Barbra Dickerman" %}}
+Guest Lecture: [Barbra Dickerman](https://scholar.google.com/citations?user=wDxSMh8AAAAJ&hl=en)
 
 Evaluating Dynamic Treatment Strategies
 
@@ -220,11 +220,11 @@ Automating Clinical Workflows
 
 Regulation of ML/AI in the US
 
-Guest Lecture: {{% resource_link "1535a7a1-dcd2-4b8e-af4c-79e44ea3ff51" "Andy Coravos" %}}
+Guest Lecture: [Andy Coravos](http://www.andreacoravos.com/)
 
 Human Subjects Research
 
-Guest Lecture: {{% resource_link "7f58c0f2-70e6-4d3b-8a9e-f0f0d207a8f1" "Mark Shervey" %}}
+Guest Lecture: [Mark Shervey](https://twitter.com/markshervey)
 
 {{< tdclose >}}{{< tdopen >}}
 Reading Questions
